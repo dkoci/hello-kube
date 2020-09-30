@@ -9,6 +9,6 @@ public class HelloController {
     @GetMapping("/hello")
     public String sazHello() {
 
-        return "Hello world second time.";
+        return "Another test.";
     }
 }
