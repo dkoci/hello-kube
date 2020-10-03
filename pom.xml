@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>si.test</groupId>
 	<artifactId>hello-world</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<packaging>war</packaging>
 	<name>hello-world</name>
 	<description>Demo project for Spring Boot</description>
