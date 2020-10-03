@@ -16,7 +16,7 @@ spec:
         app: hello-world
     spec:
       containers:
-      - image: dkoci/hello-world:1.0.3
+      - image: dkoci/hello-world:1.0.4
         name: hello-world
         ports:
         - containerPort: 8080
