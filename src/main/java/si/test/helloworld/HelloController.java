@@ -9,6 +9,6 @@ public class HelloController {
     @GetMapping("/hello")
     public String sazHello() {
 
-        return "Another test.";
+        return "Another test with docker private registry.";
     }
 }
